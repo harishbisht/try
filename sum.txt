@@ -1,0 +1,13 @@
+#include<Stdio.h>
+void main()
+{
+
+sum(3,4);
+
+}
+void sum(int i,int j)
+{
+
+prinf("%d",i+j);
+
+}
