@@ -2,12 +2,11 @@
 void main()
 {
 
-sum(3,4);
+printf("%d",sum(3,4));
 
 }
-void sum(int i,int j)
+int sum(int i,int j)
 {
-
-prinf("%d",i+j);
+return i+j;
 
 }
